@@ -1,6 +1,6 @@
 # AI Emporium 🤖💼
 
-Welcome to [AI Emporium][(https://nse-cproject.vercel.app/)], your one-stop destination for AI-powered tools designed to enhance your coding and reading experience!
+Welcome to AI Emporium, your one-stop destination for AI-powered tools designed to enhance your coding and reading experience!
 
 ## About
 AI Emporium is a showcase of two powerful AI models created to simplify coding and reading tasks:
