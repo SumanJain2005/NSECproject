@@ -38,11 +38,11 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, JavaScript (for AI models)
 
-  ## Team ByteBlaster
-- [**Aditya Ghosh**][(https://adityaghosh-portfolio.vercel.app/)]
-- [**Ankan Misra**][(https://ankanmisra.netlify.app/)]
-- [**Suman Jain**][(https://suman-jain-portfolio.vercel.app/)]
- 
+ ## Team ByteBlaster
+- [**Aditya Ghosh**](https://adityaghosh-portfolio.vercel.app/)
+- [**Ankan Misra**](https://ankanmisra.netlify.app/)
+- [**Suman Jain**](https://suman-jain-portfolio.vercel.app/)
+
   
 ## Installation
 1. Clone the repository:
