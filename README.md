@@ -34,3 +34,5 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/AI-Emporium.git
+   ```sh
+   run or execute the file
