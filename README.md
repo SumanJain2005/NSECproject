@@ -15,6 +15,9 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
    <img width="1298" alt="Screenshot 2024-05-17 at 16 42 36" src="https://github.com/SumanJain2005/NSECproject/assets/143676135/bb9810c5-d479-4b32-ac79-b9c54c2b2d17">
 
 3. **Answer Writing Web App**: Get answers to your questions quickly and accurately.
+   <img width="1289" alt="Screenshot 2024-05-17 at 17 32 06" src="https://github.com/SumanJain2005/NSECproject/assets/143676135/be5049a9-45da-41f9-b4cd-6a1034e68e36">
+
+
 
 ## Features
 - **Code Explainer**: Understand code faster and more effectively.
