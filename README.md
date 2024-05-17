@@ -29,10 +29,9 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, JavaScript (for AI models)
-
+- 
 ## Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/AI-Emporium.git
-   ```sh
-   run or execute the file
+
