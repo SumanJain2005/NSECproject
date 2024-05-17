@@ -8,6 +8,7 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
 1. **Code Explainer**: This AI model is designed to help you understand complex code snippets. Simply paste your code, and the AI will explain it in plain language, making coding more accessible to everyone.
 
 2. **Text Summarizer**: Our text summarizer AI model condenses lengthy articles, papers, or documents into concise summaries. Save time and get to the core of the content effortlessly.
+   
    <img width="1298" alt="Screenshot 2024-05-17 at 16 42 36" src="https://github.com/SumanJain2005/NSECproject/assets/143676135/bb9810c5-d479-4b32-ac79-b9c54c2b2d17">
 
 4. **Answer Writing Web App**: Get answers to your questions quickly and accurately.
