@@ -19,12 +19,6 @@ AI Emporium is a showcase of two powerful AI models created to simplify coding a
 - **User-friendly Interface**: Simple and intuitive design for seamless user experience.
 - **Accessibility**: Making coding and reading easier for everyone.
 
-## Software Used
-1. HTML
-2. CSS
-3. JavaScript
-4. Python
-
 
 ## Usage
 1. **Code Explainer**:
